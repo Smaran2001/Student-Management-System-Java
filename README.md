@@ -17,6 +17,7 @@ A lightweight, console-based Java application designed to perform CRUD (Create, 
 ```text
 Management System/
 └── StudentEmployeeManagementSystem.java   # Main application logic
+```
 
 ## Future Improvements
 - Add Database integration (MySQL/PostgreSQL)
